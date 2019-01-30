@@ -1,0 +1,635 @@
+Slovenia,135371.22,14.3,Europe
+France,77598.54,14,Europe
+Israel,77160.38,22,Asia
+Canada,70655.06,9.4,North America
+Netherlands,69111.41,8.8,Europe
+Belgium,67093.52,15.1,Europe
+Sweden,64561.74,15,Europe
+Lebanon,61099.29,28.6,Asia
+Denmark,55003.33,13.4,Europe
+Japan,51653.44,16.1,Asia
+Italy,48271.16,29.9,Europe
+Bahamas,40690.63,9.3,North America
+Austria,39198.87,4,Europe
+Spain,33778.50,21.1,Europe
+Germany,32561.63,16.7,Europe
+Switzerland,31607.07,6.6,Europe
+Venezuela,30626.01,19.7,South America
+Croatia,27930.11,19.5,Europe
+Argentina,18504.66,32.2,South America
+Bulgaria,18323.61,22,Europe
+Iraq,18212.96,23,Asia
+Malaysia,17826.82,3.8,Asia
+Uruguay,17712.91,9.7,South America
+Greece,15969.36,36,Europe
+Guyana,15353.76,35,South America
+Slovakia,14829.17,12.3,Europe
+Suriname,14747.98,70,South America
+Belarus,14437.30,5.7,Europe
+Ireland,14285.08,8.2,Europe
+Armenia,13741.51,32,Europe
+Macedonia,13150.38,21.5,Europe
+Hungary,11928.01,14.9,Europe
+Lithuania,11449.01,22.2,Europe
+Estonia,11269.39,21.3,Europe
+Dominica,10919.35,29,North America
+Romania,10190.12,22.4,Europe
+Turkey,9376.03,21.9,Asia
+Portugal,9194.09,19,Europe
+Latvia,9148.67,25.5,Europe
+Brazil,8883.05,3.7,South America
+Chile,8799.70,14.4,South America
+Montenegro,8548.39,8.6,Europe
+Mauritius,8470.86,8,Africa
+South Africa,8295.74,16.6,Africa
+Dominican Republic,8196.72,30.5,North America
+Costa Rica,8174.98,21.7,North America
+Nigeria,7755.79,70,Africa
+Tuvalu,7076.53,26.3,Oceania
+Jordan,6766.18,14.2,Asia
+Micronesia,6638.57,26.7,Oceania
+Maldives,6620.68,16,Asia
+Ecuador,6041.17,25.6,South America
+Kazakhstan,5973.87,2.7,Asia
+Tonga,5645.64,24,Oceania
+Colombia,5604.78,27.8,South America
+Iran,5240.14,18.7,Asia
+Ukraine,5147.38,24.1,Europe
+Belize,5129.14,41,North America
+Algeria,5112.22,23,Africa
+Serbia,4989.52,8.9,Europe
+Tunisia,4788.92,15.5,Africa
+Mexico,4750.73,46.2,North America
+Mongolia,4712.26,21.6,Asia
+Egypt,4699.64,25.2,Africa
+Panama,4588.11,23,North America
+Nicaragua,4515.96,29.6,North America
+El Salvador,4333.75,34.9,North America
+Poland,4047.81,17.6,Europe
+Morocco,4041.09,15,Africa
+Paraguay,3987.95,22.2,South America
+Grenada,3963.28,38,North America
+Swaziland,3925.88,63,Africa
+Albania,3915.34,14.3,Europe
+Jamaica,3735.66,16.5,North America
+Namibia,3592.96,28.7,Africa
+Honduras,3268.69,29.6,North America
+Gabon,3252.38,34.3,Africa
+Moldova,3249.10,20.8,Europe
+Azerbaijan,3032.24,4.9,Europe
+Uzbekistan,3013.32,14,Asia
+Peru,2973.29,22.7,South America
+Georgia,2669.89,9.2,Europe
+Sudan,2637.53,46.5,Africa
+Fiji,2441.08,31,Oceania
+Guatemala,2344,59.3,North America
+Indonesia,2312.70,10.9,Asia
+Thailand,2076.32,7.2,Asia
+Philippines,1914.42,21.6,Asia
+Chad,1885.27,46.7,Africa
+Kyrgyzstan,1711.46,32.1,Asia
+Pakistan,1711.46,29.5,Asia
+Ghana,1455.61,24.2,Africa
+Papua New Guinea,1356.17,37,Oceania
+Sri Lanka,1295.72,6.7,Asia
+China,1275.54,3.3,Asia
+Mauritania,1185.67,31,Africa
+Mali,1176.70,36.1,Africa
+India,1122.11,21.9,Asia
+Cameroon,1094.54,30,Africa
+Sierra Leone,1093.17,70.2,Africa
+Bolivia,1065.79,38.6,South America
+Benin,1022.36,36.2,Africa
+Comoros,972.25,44.8,Africa
+Yemen,969.44,54,Asia
+Botswana,894.18,30.3,Africa
+Laos,880.44,22,Asia
+Togo,858.31,55.1,Africa
+Bhutan,847.65,13.3,Asia
+Cambodia,804.33,17.7,Asia
+Kenya,760.85,43.4,Africa
+Vietnam,756.67,11.3,Asia
+Afghanistan,708.90,35.8,Asia
+Liberia,644.00,54.1,Africa
+Zambia,627.91,60.5,Africa
+Tanzania,653.62,22.8,Africa
+Uganda,472.70,19.7,Africa
+Nepal,455.19,25.2,Asia
+Senegal,454.17,46.7,Africa
+Ethiopia,428.18,29.6,Africa
+Malawi,411.18,50.7,Africa
+Zimbabwe,394.33,72.3,Africa
+Rwanda,392.88,39.1,Africa
+Lesotho,337.96,57,Africa
+Mozambique,325.99,46.1,Africa
+Gambia,309.22,48.4,Africa
+Madagascar,297.13,70.7,Africa
+Burundi,214.09,64.6,Africa
+Slovenia,135371.22,14.3,Europe
+France,77598.54,14,Europe
+Israel,77160.38,22,Asia
+Canada,70655.06,9.4,North America
+Netherlands,69111.41,8.8,Europe
+Belgium,67093.52,15.1,Europe
+Sweden,64561.74,15,Europe
+Lebanon,61099.29,28.6,Asia
+Denmark,55003.33,13.4,Europe
+Japan,51653.44,16.1,Asia
+Italy,48271.16,29.9,Europe
+Bahamas,40690.63,9.3,North America
+Austria,39198.87,4,Europe
+Spain,33778.50,21.1,Europe
+Germany,32561.63,16.7,Europe
+Switzerland,31607.07,6.6,Europe
+Venezuela,30626.01,19.7,South America
+Croatia,27930.11,19.5,Europe
+Argentina,18504.66,32.2,South America
+Bulgaria,18323.61,22,Europe
+Iraq,18212.96,23,Asia
+Malaysia,17826.82,3.8,Asia
+Uruguay,17712.91,9.7,South America
+Greece,15969.36,36,Europe
+Guyana,15353.76,35,South America
+Slovakia,14829.17,12.3,Europe
+Suriname,14747.98,70,South America
+Belarus,14437.30,5.7,Europe
+Ireland,14285.08,8.2,Europe
+Armenia,13741.51,32,Europe
+Macedonia,13150.38,21.5,Europe
+Hungary,11928.01,14.9,Europe
+Lithuania,11449.01,22.2,Europe
+Estonia,11269.39,21.3,Europe
+Dominica,10919.35,29,North America
+Romania,10190.12,22.4,Europe
+Turkey,9376.03,21.9,Asia
+Portugal,9194.09,19,Europe
+Latvia,9148.67,25.5,Europe
+Brazil,8883.05,3.7,South America
+Chile,8799.70,14.4,South America
+Montenegro,8548.39,8.6,Europe
+Mauritius,8470.86,8,Africa
+South Africa,8295.74,16.6,Africa
+Dominican Republic,8196.72,30.5,North America
+Costa Rica,8174.98,21.7,North America
+Nigeria,7755.79,70,Africa
+Tuvalu,7076.53,26.3,Oceania
+Jordan,6766.18,14.2,Asia
+Micronesia,6638.57,26.7,Oceania
+Maldives,6620.68,16,Asia
+Ecuador,6041.17,25.6,South America
+Kazakhstan,5973.87,2.7,Asia
+Tonga,5645.64,24,Oceania
+Colombia,5604.78,27.8,South America
+Iran,5240.14,18.7,Asia
+Ukraine,5147.38,24.1,Europe
+Belize,5129.14,41,North America
+Algeria,5112.22,23,Africa
+Serbia,4989.52,8.9,Europe
+Tunisia,4788.92,15.5,Africa
+Mexico,4750.73,46.2,North America
+Mongolia,4712.26,21.6,Asia
+Egypt,4699.64,25.2,Africa
+Panama,4588.11,23,North America
+Nicaragua,4515.96,29.6,North America
+El Salvador,4333.75,34.9,North America
+Poland,4047.81,17.6,Europe
+Morocco,4041.09,15,Africa
+Paraguay,3987.95,22.2,South America
+Grenada,3963.28,38,North America
+Swaziland,3925.88,63,Africa
+Albania,3915.34,14.3,Europe
+Jamaica,3735.66,16.5,North America
+Namibia,3592.96,28.7,Africa
+Honduras,3268.69,29.6,North America
+Gabon,3252.38,34.3,Africa
+Moldova,3249.10,20.8,Europe
+Azerbaijan,3032.24,4.9,Europe
+Uzbekistan,3013.32,14,Asia
+Peru,2973.29,22.7,South America
+Georgia,2669.89,9.2,Europe
+Sudan,2637.53,46.5,Africa
+Fiji,2441.08,31,Oceania
+Guatemala,2344,59.3,North America
+Indonesia,2312.70,10.9,Asia
+Thailand,2076.32,7.2,Asia
+Philippines,1914.42,21.6,Asia
+Chad,1885.27,46.7,Africa
+Kyrgyzstan,1711.46,32.1,Asia
+Pakistan,1711.46,29.5,Asia
+Ghana,1455.61,24.2,Africa
+Papua New Guinea,1356.17,37,Oceania
+Sri Lanka,1295.72,6.7,Asia
+China,1275.54,3.3,Asia
+Mauritania,1185.67,31,Africa
+Mali,1176.70,36.1,Africa
+India,1122.11,21.9,Asia
+Cameroon,1094.54,30,Africa
+Sierra Leone,1093.17,70.2,Africa
+Bolivia,1065.79,38.6,South America
+Benin,1022.36,36.2,Africa
+Comoros,972.25,44.8,Africa
+Yemen,969.44,54,Asia
+Botswana,894.18,30.3,Africa
+Laos,880.44,22,Asia
+Togo,858.31,55.1,Africa
+Bhutan,847.65,13.3,Asia
+Cambodia,804.33,17.7,Asia
+Kenya,760.85,43.4,Africa
+Vietnam,756.67,11.3,Asia
+Afghanistan,708.90,35.8,Asia
+Liberia,644.00,54.1,Africa
+Zambia,627.91,60.5,Africa
+Tanzania,653.62,22.8,Africa
+Uganda,472.70,19.7,Africa
+Nepal,455.19,25.2,Asia
+Senegal,454.17,46.7,Africa
+Ethiopia,428.18,29.6,Africa
+Malawi,411.18,50.7,Africa
+Zimbabwe,394.33,72.3,Africa
+Rwanda,392.88,39.1,Africa
+Lesotho,337.96,57,Africa
+Mozambique,325.99,46.1,Africa
+Gambia,309.22,48.4,Africa
+Madagascar,297.13,70.7,Africa
+Burundi,214.09,64.6,Africa
+Slovenia,135371.22,14.3,Europe
+France,77598.54,14,Europe
+Israel,77160.38,22,Asia
+Canada,70655.06,9.4,North America
+Netherlands,69111.41,8.8,Europe
+Belgium,67093.52,15.1,Europe
+Sweden,64561.74,15,Europe
+Lebanon,61099.29,28.6,Asia
+Denmark,55003.33,13.4,Europe
+Japan,51653.44,16.1,Asia
+Italy,48271.16,29.9,Europe
+Bahamas,40690.63,9.3,North America
+Austria,39198.87,4,Europe
+Spain,33778.50,21.1,Europe
+Germany,32561.63,16.7,Europe
+Switzerland,31607.07,6.6,Europe
+Venezuela,30626.01,19.7,South America
+Croatia,27930.11,19.5,Europe
+Argentina,18504.66,32.2,South America
+Bulgaria,18323.61,22,Europe
+Iraq,18212.96,23,Asia
+Malaysia,17826.82,3.8,Asia
+Uruguay,17712.91,9.7,South America
+Greece,15969.36,36,Europe
+Guyana,15353.76,35,South America
+Slovakia,14829.17,12.3,Europe
+Suriname,14747.98,70,South America
+Belarus,14437.30,5.7,Europe
+Ireland,14285.08,8.2,Europe
+Armenia,13741.51,32,Europe
+Macedonia,13150.38,21.5,Europe
+Hungary,11928.01,14.9,Europe
+Lithuania,11449.01,22.2,Europe
+Estonia,11269.39,21.3,Europe
+Dominica,10919.35,29,North America
+Romania,10190.12,22.4,Europe
+Turkey,9376.03,21.9,Asia
+Portugal,9194.09,19,Europe
+Latvia,9148.67,25.5,Europe
+Brazil,8883.05,3.7,South America
+Chile,8799.70,14.4,South America
+Montenegro,8548.39,8.6,Europe
+Mauritius,8470.86,8,Africa
+South Africa,8295.74,16.6,Africa
+Dominican Republic,8196.72,30.5,North America
+Costa Rica,8174.98,21.7,North America
+Nigeria,7755.79,70,Africa
+Tuvalu,7076.53,26.3,Oceania
+Jordan,6766.18,14.2,Asia
+Micronesia,6638.57,26.7,Oceania
+Maldives,6620.68,16,Asia
+Ecuador,6041.17,25.6,South America
+Kazakhstan,5973.87,2.7,Asia
+Tonga,5645.64,24,Oceania
+Colombia,5604.78,27.8,South America
+Iran,5240.14,18.7,Asia
+Ukraine,5147.38,24.1,Europe
+Belize,5129.14,41,North America
+Algeria,5112.22,23,Africa
+Serbia,4989.52,8.9,Europe
+Tunisia,4788.92,15.5,Africa
+Mexico,4750.73,46.2,North America
+Mongolia,4712.26,21.6,Asia
+Egypt,4699.64,25.2,Africa
+Panama,4588.11,23,North America
+Nicaragua,4515.96,29.6,North America
+El Salvador,4333.75,34.9,North America
+Poland,4047.81,17.6,Europe
+Morocco,4041.09,15,Africa
+Paraguay,3987.95,22.2,South America
+Grenada,3963.28,38,North America
+Swaziland,3925.88,63,Africa
+Albania,3915.34,14.3,Europe
+Jamaica,3735.66,16.5,North America
+Namibia,3592.96,28.7,Africa
+Honduras,3268.69,29.6,North America
+Gabon,3252.38,34.3,Africa
+Moldova,3249.10,20.8,Europe
+Azerbaijan,3032.24,4.9,Europe
+Uzbekistan,3013.32,14,Asia
+Peru,2973.29,22.7,South America
+Georgia,2669.89,9.2,Europe
+Sudan,2637.53,46.5,Africa
+Fiji,2441.08,31,Oceania
+Guatemala,2344,59.3,North America
+Indonesia,2312.70,10.9,Asia
+Thailand,2076.32,7.2,Asia
+Philippines,1914.42,21.6,Asia
+Chad,1885.27,46.7,Africa
+Kyrgyzstan,1711.46,32.1,Asia
+Pakistan,1711.46,29.5,Asia
+Ghana,1455.61,24.2,Africa
+Papua New Guinea,1356.17,37,Oceania
+Sri Lanka,1295.72,6.7,Asia
+China,1275.54,3.3,Asia
+Mauritania,1185.67,31,Africa
+Mali,1176.70,36.1,Africa
+India,1122.11,21.9,Asia
+Cameroon,1094.54,30,Africa
+Sierra Leone,1093.17,70.2,Africa
+Bolivia,1065.79,38.6,South America
+Benin,1022.36,36.2,Africa
+Comoros,972.25,44.8,Africa
+Yemen,969.44,54,Asia
+Botswana,894.18,30.3,Africa
+Laos,880.44,22,Asia
+Togo,858.31,55.1,Africa
+Bhutan,847.65,13.3,Asia
+Cambodia,804.33,17.7,Asia
+Kenya,760.85,43.4,Africa
+Vietnam,756.67,11.3,Asia
+Afghanistan,708.90,35.8,Asia
+Liberia,644.00,54.1,Africa
+Zambia,627.91,60.5,Africa
+Tanzania,653.62,22.8,Africa
+Uganda,472.70,19.7,Africa
+Nepal,455.19,25.2,Asia
+Senegal,454.17,46.7,Africa
+Ethiopia,428.18,29.6,Africa
+Malawi,411.18,50.7,Africa
+Zimbabwe,394.33,72.3,Africa
+Rwanda,392.88,39.1,Africa
+Lesotho,337.96,57,Africa
+Mozambique,325.99,46.1,Africa
+Gambia,309.22,48.4,Africa
+Madagascar,297.13,70.7,Africa
+Burundi,214.09,64.6,Africa
+Slovenia,135371.22,14.3,Europe
+France,77598.54,14,Europe
+Israel,77160.38,22,Asia
+Canada,70655.06,9.4,North America
+Netherlands,69111.41,8.8,Europe
+Belgium,67093.52,15.1,Europe
+Sweden,64561.74,15,Europe
+Lebanon,61099.29,28.6,Asia
+Denmark,55003.33,13.4,Europe
+Japan,51653.44,16.1,Asia
+Italy,48271.16,29.9,Europe
+Bahamas,40690.63,9.3,North America
+Austria,39198.87,4,Europe
+Spain,33778.50,21.1,Europe
+Germany,32561.63,16.7,Europe
+Switzerland,31607.07,6.6,Europe
+Venezuela,30626.01,19.7,South America
+Croatia,27930.11,19.5,Europe
+Argentina,18504.66,32.2,South America
+Bulgaria,18323.61,22,Europe
+Iraq,18212.96,23,Asia
+Malaysia,17826.82,3.8,Asia
+Uruguay,17712.91,9.7,South America
+Greece,15969.36,36,Europe
+Guyana,15353.76,35,South America
+Slovakia,14829.17,12.3,Europe
+Suriname,14747.98,70,South America
+Belarus,14437.30,5.7,Europe
+Ireland,14285.08,8.2,Europe
+Armenia,13741.51,32,Europe
+Macedonia,13150.38,21.5,Europe
+Hungary,11928.01,14.9,Europe
+Lithuania,11449.01,22.2,Europe
+Estonia,11269.39,21.3,Europe
+Dominica,10919.35,29,North America
+Romania,10190.12,22.4,Europe
+Turkey,9376.03,21.9,Asia
+Portugal,9194.09,19,Europe
+Latvia,9148.67,25.5,Europe
+Brazil,8883.05,3.7,South America
+Chile,8799.70,14.4,South America
+Montenegro,8548.39,8.6,Europe
+Mauritius,8470.86,8,Africa
+South Africa,8295.74,16.6,Africa
+Dominican Republic,8196.72,30.5,North America
+Costa Rica,8174.98,21.7,North America
+Nigeria,7755.79,70,Africa
+Tuvalu,7076.53,26.3,Oceania
+Jordan,6766.18,14.2,Asia
+Micronesia,6638.57,26.7,Oceania
+Maldives,6620.68,16,Asia
+Ecuador,6041.17,25.6,South America
+Kazakhstan,5973.87,2.7,Asia
+Tonga,5645.64,24,Oceania
+Colombia,5604.78,27.8,South America
+Iran,5240.14,18.7,Asia
+Ukraine,5147.38,24.1,Europe
+Belize,5129.14,41,North America
+Algeria,5112.22,23,Africa
+Serbia,4989.52,8.9,Europe
+Tunisia,4788.92,15.5,Africa
+Mexico,4750.73,46.2,North America
+Mongolia,4712.26,21.6,Asia
+Egypt,4699.64,25.2,Africa
+Panama,4588.11,23,North America
+Nicaragua,4515.96,29.6,North America
+El Salvador,4333.75,34.9,North America
+Poland,4047.81,17.6,Europe
+Morocco,4041.09,15,Africa
+Paraguay,3987.95,22.2,South America
+Grenada,3963.28,38,North America
+Swaziland,3925.88,63,Africa
+Albania,3915.34,14.3,Europe
+Jamaica,3735.66,16.5,North America
+Namibia,3592.96,28.7,Africa
+Honduras,3268.69,29.6,North America
+Gabon,3252.38,34.3,Africa
+Moldova,3249.10,20.8,Europe
+Azerbaijan,3032.24,4.9,Europe
+Uzbekistan,3013.32,14,Asia
+Peru,2973.29,22.7,South America
+Georgia,2669.89,9.2,Europe
+Sudan,2637.53,46.5,Africa
+Fiji,2441.08,31,Oceania
+Guatemala,2344,59.3,North America
+Indonesia,2312.70,10.9,Asia
+Thailand,2076.32,7.2,Asia
+Philippines,1914.42,21.6,Asia
+Chad,1885.27,46.7,Africa
+Kyrgyzstan,1711.46,32.1,Asia
+Pakistan,1711.46,29.5,Asia
+Ghana,1455.61,24.2,Africa
+Papua New Guinea,1356.17,37,Oceania
+Sri Lanka,1295.72,6.7,Asia
+China,1275.54,3.3,Asia
+Mauritania,1185.67,31,Africa
+Mali,1176.70,36.1,Africa
+India,1122.11,21.9,Asia
+Cameroon,1094.54,30,Africa
+Sierra Leone,1093.17,70.2,Africa
+Bolivia,1065.79,38.6,South America
+Benin,1022.36,36.2,Africa
+Comoros,972.25,44.8,Africa
+Yemen,969.44,54,Asia
+Botswana,894.18,30.3,Africa
+Laos,880.44,22,Asia
+Togo,858.31,55.1,Africa
+Bhutan,847.65,13.3,Asia
+Cambodia,804.33,17.7,Asia
+Kenya,760.85,43.4,Africa
+Vietnam,756.67,11.3,Asia
+Afghanistan,708.90,35.8,Asia
+Liberia,644.00,54.1,Africa
+Zambia,627.91,60.5,Africa
+Tanzania,653.62,22.8,Africa
+Uganda,472.70,19.7,Africa
+Nepal,455.19,25.2,Asia
+Senegal,454.17,46.7,Africa
+Ethiopia,428.18,29.6,Africa
+Malawi,411.18,50.7,Africa
+Zimbabwe,394.33,72.3,Africa
+Rwanda,392.88,39.1,Africa
+Lesotho,337.96,57,Africa
+Mozambique,325.99,46.1,Africa
+Gambia,309.22,48.4,Africa
+Madagascar,297.13,70.7,Africa
+Burundi,214.09,64.6,Africa
+Slovenia,135371.22,14.3,Europe
+France,77598.54,14,Europe
+Israel,77160.38,22,Asia
+Canada,70655.06,9.4,North America
+Netherlands,69111.41,8.8,Europe
+Belgium,67093.52,15.1,Europe
+Sweden,64561.74,15,Europe
+Lebanon,61099.29,28.6,Asia
+Denmark,55003.33,13.4,Europe
+Japan,51653.44,16.1,Asia
+Italy,48271.16,29.9,Europe
+Bahamas,40690.63,9.3,North America
+Austria,39198.87,4,Europe
+Spain,33778.50,21.1,Europe
+Germany,32561.63,16.7,Europe
+Switzerland,31607.07,6.6,Europe
+Venezuela,30626.01,19.7,South America
+Croatia,27930.11,19.5,Europe
+Argentina,18504.66,32.2,South America
+Bulgaria,18323.61,22,Europe
+Iraq,18212.96,23,Asia
+Malaysia,17826.82,3.8,Asia
+Uruguay,17712.91,9.7,South America
+Greece,15969.36,36,Europe
+Guyana,15353.76,35,South America
+Slovakia,14829.17,12.3,Europe
+Suriname,14747.98,70,South America
+Belarus,14437.30,5.7,Europe
+Ireland,14285.08,8.2,Europe
+Armenia,13741.51,32,Europe
+Macedonia,13150.38,21.5,Europe
+Hungary,11928.01,14.9,Europe
+Lithuania,11449.01,22.2,Europe
+Estonia,11269.39,21.3,Europe
+Dominica,10919.35,29,North America
+Romania,10190.12,22.4,Europe
+Turkey,9376.03,21.9,Asia
+Portugal,9194.09,19,Europe
+Latvia,9148.67,25.5,Europe
+Brazil,8883.05,3.7,South America
+Chile,8799.70,14.4,South America
+Montenegro,8548.39,8.6,Europe
+Mauritius,8470.86,8,Africa
+South Africa,8295.74,16.6,Africa
+Dominican Republic,8196.72,30.5,North America
+Costa Rica,8174.98,21.7,North America
+Nigeria,7755.79,70,Africa
+Tuvalu,7076.53,26.3,Oceania
+Jordan,6766.18,14.2,Asia
+Micronesia,6638.57,26.7,Oceania
+Maldives,6620.68,16,Asia
+Ecuador,6041.17,25.6,South America
+Kazakhstan,5973.87,2.7,Asia
+Tonga,5645.64,24,Oceania
+Colombia,5604.78,27.8,South America
+Iran,5240.14,18.7,Asia
+Ukraine,5147.38,24.1,Europe
+Belize,5129.14,41,North America
+Algeria,5112.22,23,Africa
+Serbia,4989.52,8.9,Europe
+Tunisia,4788.92,15.5,Africa
+Mexico,4750.73,46.2,North America
+Mongolia,4712.26,21.6,Asia
+Egypt,4699.64,25.2,Africa
+Panama,4588.11,23,North America
+Nicaragua,4515.96,29.6,North America
+El Salvador,4333.75,34.9,North America
+Poland,4047.81,17.6,Europe
+Morocco,4041.09,15,Africa
+Paraguay,3987.95,22.2,South America
+Grenada,3963.28,38,North America
+Swaziland,3925.88,63,Africa
+Albania,3915.34,14.3,Europe
+Jamaica,3735.66,16.5,North America
+Namibia,3592.96,28.7,Africa
+Honduras,3268.69,29.6,North America
+Gabon,3252.38,34.3,Africa
+Moldova,3249.10,20.8,Europe
+Azerbaijan,3032.24,4.9,Europe
+Uzbekistan,3013.32,14,Asia
+Peru,2973.29,22.7,South America
+Georgia,2669.89,9.2,Europe
+Sudan,2637.53,46.5,Africa
+Fiji,2441.08,31,Oceania
+Guatemala,2344,59.3,North America
+Indonesia,2312.70,10.9,Asia
+Thailand,2076.32,7.2,Asia
+Philippines,1914.42,21.6,Asia
+Chad,1885.27,46.7,Africa
+Kyrgyzstan,1711.46,32.1,Asia
+Pakistan,1711.46,29.5,Asia
+Ghana,1455.61,24.2,Africa
+Papua New Guinea,1356.17,37,Oceania
+Sri Lanka,1295.72,6.7,Asia
+China,1275.54,3.3,Asia
+Mauritania,1185.67,31,Africa
+Mali,1176.70,36.1,Africa
+India,1122.11,21.9,Asia
+Cameroon,1094.54,30,Africa
+Sierra Leone,1093.17,70.2,Africa
+Bolivia,1065.79,38.6,South America
+Benin,1022.36,36.2,Africa
+Comoros,972.25,44.8,Africa
+Yemen,969.44,54,Asia
+Botswana,894.18,30.3,Africa
+Laos,880.44,22,Asia
+Togo,858.31,55.1,Africa
+Bhutan,847.65,13.3,Asia
+Cambodia,804.33,17.7,Asia
+Kenya,760.85,43.4,Africa
+Vietnam,756.67,11.3,Asia
+Afghanistan,708.90,35.8,Asia
+Liberia,644.00,54.1,Africa
+Zambia,627.91,60.5,Africa
+Tanzania,653.62,22.8,Africa
+Uganda,472.70,19.7,Africa
+Nepal,455.19,25.2,Asia
+Senegal,454.17,46.7,Africa
+Ethiopia,428.18,29.6,Africa
+Malawi,411.18,50.7,Africa
+Zimbabwe,394.33,72.3,Africa
+Rwanda,392.88,39.1,Africa
+Lesotho,337.96,57,Africa
+Mozambique,325.99,46.1,Africa
+Gambia,309.22,48.4,Africa
+Madagascar,297.13,70.7,Africa
+Burundi,214.09,64.6,Africa
